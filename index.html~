@@ -129,6 +129,125 @@
         </section>
         <!-- /Slider -->
 
+        
+        <!-- Categories -->
+        <section class="flat-spacing-5 pb_0">
+            <div class="container">
+                <div class="flat-title">
+                    <span class="title wow fadeInUp" data-wow-delay="0s">Categories you might like</span>
+                </div>
+                <div class="hover-sw-nav">
+                    <div dir="ltr" class="swiper tf-sw-collection" data-preview="4" data-tablet="2" data-mobile="2" data-space-lg="30" data-space-md="30" data-space="15" data-loop="false" data-auto-play="false">
+                        <div class="swiper-wrapper">
+
+                            <div class="swiper-slide" lazy="true">
+                                <div class="collection-item style-2 hover-img">
+                                    <div class="collection-inner">
+                                        <a href="#" class="collection-image img-style">
+                                            <img class="lazyload" data-src="img/Kids-rugs.webp"
+                                                 src="img/Kids-rugs.webp" alt="collection-img">
+                                        </a>
+                                        <div class="collection-content">
+                                            <a href="#" class="tf-btn collection-title hover-icon fs-15 rounded-full">
+                                                <span>Kids Rugs</span><i class="icon icon-arrow1-top-left"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide" lazy="true">
+                                <div class="collection-item style-2 hover-img">
+                                    <div class="collection-inner">
+                                        <a href="#" class="collection-image img-style">
+                                            <img class="lazyload" data-src="img/Neon-Carpet-and-rugs.webp"
+                                                 src="img/Neon-Carpet-and-rugs.webp" alt="collection-img">
+                                        </a>
+                                        <div class="collection-content">
+                                            <a href="#" class="tf-btn collection-title hover-icon fs-15 rounded-full">
+                                                <span>Neon Carpet and Rugs
+</span><i class="icon icon-arrow1-top-left"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide" lazy="true">
+                                <div class="collection-item style-2 hover-img">
+                                    <div class="collection-inner">
+                                        <a href="#" class="collection-image img-style">
+                                            <img class="lazyload" data-src="img/Carpet-tile.webp"
+                                                 src="img/Carpet-tile.webp" alt="collection-img">
+                                        </a>
+                                        <div class="collection-content">
+                                            <a href="#" class="tf-btn collection-title hover-icon fs-15 rounded-full">
+                                                <span>Carpet Tiles
+</span><i class="icon icon-arrow1-top-left"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide" lazy="true">
+                                <div class="collection-item style-2 hover-img">
+                                    <div class="collection-inner">
+                                        <a href="#" class="collection-image img-style">
+                                            <img class="lazyload" data-src="img/St.-Regis-2-800x800.webp"
+                                                 src="img/St.-Regis-2-800x800.webp" alt="collection-img">
+                                        </a>
+                                        <div class="collection-content">
+                                            <a href="#" class="tf-btn collection-title hover-icon fs-15 rounded-full">
+                                                <span>Hospitality Carpet
+</span><i class="icon icon-arrow1-top-left"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide" lazy="true">
+                                <div class="collection-item style-2 hover-img">
+                                    <div class="collection-inner">
+                                        <a href="#" class="collection-image img-style">
+                                            <img class="lazyload" data-src="img/MarineAndBoat.webp"
+                                                 src="img/MarineAndBoat.webp" alt="collection-img">
+                                        </a>
+                                        <div class="collection-content">
+                                            <a href="#" class="tf-btn collection-title hover-icon fs-15 rounded-full">
+                                                <span>Marine and Boat Carpet
+
+</span><i class="icon icon-arrow1-top-left"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide" lazy="true">
+                                <div class="collection-item style-2 hover-img">
+                                    <div class="collection-inner">
+                                        <a href="#" class="collection-image img-style">
+                                            <img class="lazyload" data-src="img/Capture.webp"
+                                                 src="img/Capture.webp" alt="collection-img">
+                                        </a>
+                                        <div class="collection-content">
+                                            <a href="#" class="tf-btn collection-title hover-icon fs-15 rounded-full">
+                                                <span>Artificial Turf Grass
+
+
+</span><i class="icon icon-arrow1-top-left"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="nav-sw nav-next-slider nav-next-collection box-icon w_46 round"><span class="icon icon-arrow-left"></span></div>
+                    <div class="nav-sw nav-prev-slider nav-prev-collection box-icon w_46 round"><span class="icon icon-arrow-right"></span></div>
+                    <div class="sw-dots style-2 sw-pagination-collection justify-content-center"></div>
+                </div>
+            </div>
+        </section>
+        <!-- /Categories -->
+
         <!-- Sale Product -->
         <section class="flat-spacing-17">
             <div class="container">
@@ -2145,125 +2264,6 @@
             </div>
         </section>
         <!-- /Sale Product -->
-
-
-        <!-- Categories -->
-        <section class="flat-spacing-5 pb_0">
-            <div class="container">
-                <div class="flat-title">
-                    <span class="title wow fadeInUp" data-wow-delay="0s">Categories you might like</span>
-                </div>
-                <div class="hover-sw-nav">
-                    <div dir="ltr" class="swiper tf-sw-collection" data-preview="4" data-tablet="2" data-mobile="2" data-space-lg="30" data-space-md="30" data-space="15" data-loop="false" data-auto-play="false">
-                        <div class="swiper-wrapper">
-
-                            <div class="swiper-slide" lazy="true">
-                                <div class="collection-item style-2 hover-img">
-                                    <div class="collection-inner">
-                                        <a href="#" class="collection-image img-style">
-                                            <img class="lazyload" data-src="img/Kids-rugs.webp"
-                                                 src="img/Kids-rugs.webp" alt="collection-img">
-                                        </a>
-                                        <div class="collection-content">
-                                            <a href="#" class="tf-btn collection-title hover-icon fs-15 rounded-full">
-                                                <span>Kids Rugs</span><i class="icon icon-arrow1-top-left"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="swiper-slide" lazy="true">
-                                <div class="collection-item style-2 hover-img">
-                                    <div class="collection-inner">
-                                        <a href="#" class="collection-image img-style">
-                                            <img class="lazyload" data-src="img/Neon-Carpet-and-rugs.webp"
-                                                 src="img/Neon-Carpet-and-rugs.webp" alt="collection-img">
-                                        </a>
-                                        <div class="collection-content">
-                                            <a href="#" class="tf-btn collection-title hover-icon fs-15 rounded-full">
-                                                <span>Neon Carpet and Rugs
-</span><i class="icon icon-arrow1-top-left"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="swiper-slide" lazy="true">
-                                <div class="collection-item style-2 hover-img">
-                                    <div class="collection-inner">
-                                        <a href="#" class="collection-image img-style">
-                                            <img class="lazyload" data-src="img/Carpet-tile.webp"
-                                                 src="img/Carpet-tile.webp" alt="collection-img">
-                                        </a>
-                                        <div class="collection-content">
-                                            <a href="#" class="tf-btn collection-title hover-icon fs-15 rounded-full">
-                                                <span>Carpet Tiles
-</span><i class="icon icon-arrow1-top-left"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="swiper-slide" lazy="true">
-                                <div class="collection-item style-2 hover-img">
-                                    <div class="collection-inner">
-                                        <a href="#" class="collection-image img-style">
-                                            <img class="lazyload" data-src="img/St.-Regis-2-800x800.webp"
-                                                 src="img/St.-Regis-2-800x800.webp" alt="collection-img">
-                                        </a>
-                                        <div class="collection-content">
-                                            <a href="#" class="tf-btn collection-title hover-icon fs-15 rounded-full">
-                                                <span>Hospitality Carpet
-</span><i class="icon icon-arrow1-top-left"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="swiper-slide" lazy="true">
-                                <div class="collection-item style-2 hover-img">
-                                    <div class="collection-inner">
-                                        <a href="#" class="collection-image img-style">
-                                            <img class="lazyload" data-src="img/MarineAndBoat.webp"
-                                                 src="img/MarineAndBoat.webp" alt="collection-img">
-                                        </a>
-                                        <div class="collection-content">
-                                            <a href="#" class="tf-btn collection-title hover-icon fs-15 rounded-full">
-                                                <span>Marine and Boat Carpet
-
-</span><i class="icon icon-arrow1-top-left"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="swiper-slide" lazy="true">
-                                <div class="collection-item style-2 hover-img">
-                                    <div class="collection-inner">
-                                        <a href="#" class="collection-image img-style">
-                                            <img class="lazyload" data-src="img/Capture.webp"
-                                                 src="img/Capture.webp" alt="collection-img">
-                                        </a>
-                                        <div class="collection-content">
-                                            <a href="#" class="tf-btn collection-title hover-icon fs-15 rounded-full">
-                                                <span>Artificial Turf Grass
-
-
-</span><i class="icon icon-arrow1-top-left"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                    <div class="nav-sw nav-next-slider nav-next-collection box-icon w_46 round"><span class="icon icon-arrow-left"></span></div>
-                    <div class="nav-sw nav-prev-slider nav-prev-collection box-icon w_46 round"><span class="icon icon-arrow-right"></span></div>
-                    <div class="sw-dots style-2 sw-pagination-collection justify-content-center"></div>
-                </div>
-            </div>
-        </section>
-        <!-- /Categories -->
 
 
 <!--         Best seller -->
